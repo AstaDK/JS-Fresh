@@ -1,0 +1,14 @@
+Removing the element have age <= 21 
+
+const person = [
+  {text: "Hello", from: "John", age: 32},
+  {text: "How goes?", from: "John", age: 21},
+  {text: "See you soon", from: "Alice", age: 11},
+  {text: "Im good", from: "Ben", age: 72}
+];
+
+Expected:
+[
+  {text: "Hello", from: "John", age: 32},
+  {text: "Im good", from: "Ben", age: 72}
+];
