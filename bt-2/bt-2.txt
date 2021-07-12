@@ -1,0 +1,6 @@
+Finding the same items inside 2 array and print them as new array:
+
+const arrayA = ["dog", "cat", "fish", 3, "tree", 5, 1];
+const arrayB = ["cat", "tree", 79, 12, "rock", 1];
+
+Expected: ["cat", "tree", 1]
