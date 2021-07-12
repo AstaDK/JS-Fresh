@@ -3,6 +3,7 @@
 *How to run code*
 
 ***node 'path file'***
+**Example: `node bt-1.js`**
 
 -------------
 
