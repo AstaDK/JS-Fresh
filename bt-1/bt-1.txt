@@ -1,0 +1,6 @@
+Removing all item start with `b` inside the array
+
+const Array = [ "apple", "banana", "age", "bill", "cat", "boom", "config", "bad", "film", "year" ];
+
+
+Expected: ["apple", "age", "cat", "config" "film", "year" ]
