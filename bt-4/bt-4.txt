@@ -1,3 +1,8 @@
 Create a function with:
 - input 2 array (you can reuse 2 array of bt-2.txt)
 - output: return an array contain a different elements of 2 input array  
+
+
+required: create 2 funciton
+- 1 function you can code with your mind
+- 1 function you must to use for in order to handle
