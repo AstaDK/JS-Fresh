@@ -1,0 +1,3 @@
+Create a function with:
+- input 2 array (you can reuse 2 array of bt-2.txt)
+- output: return an array contain a different elements of 2 input array  
